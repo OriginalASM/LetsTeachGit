@@ -1,4 +1,4 @@
-# Let"s Teach Git
+# Let's Learn Git
 
 
 Hello Everyone!
