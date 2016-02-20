@@ -1,4 +1,7 @@
+
 "my name is jeet.I love working in zairza"
 we are now learning git.
 im using vi editor
 
+my name is shubham. I love working in zairza
+We are now learning git.
