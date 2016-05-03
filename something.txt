@@ -10,3 +10,18 @@ itz the best place
 my name is Amitash nanda.I love working in zairza.
 i love the robotics part
 
+LET'S LEARN GIT:
+1)create a git repositiry with the name exact to the name of your local file.
+2)enter to the local file [ terminal: >>cd filename]
+3)initialize git [>>git init]
+4)check your git status to add or remove files [>> git add]
+	 n.b:to add more then one file [>>git add --a]
+5)commit your changes(describe the changes in few words) [>>git commit -m "your message"]
+6)push your change to your git repo [>>git push URL_of_repo] 
+	for reinitialized repo:[git push -u origin master]
+  	(give ur user name and password if required)
+7)check your branch [>>git branch]
+8)create a new branch [>>git branch new_branch]
+9)swith to other branch [>>git checkout branch]
+10)clone files/repo from git [git clone URL_OF_repo]	
+
